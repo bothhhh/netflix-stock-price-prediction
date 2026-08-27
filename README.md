@@ -86,7 +86,7 @@ netflix-stock-price-prediction/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/netflix-stock-price-prediction.git
+git clone https://github.com/bothhh/netflix-stock-price-prediction.git
 ```
 
 ### 2. Install the required libraries
