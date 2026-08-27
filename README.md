@@ -6,13 +6,13 @@ This project uses machine learning techniques to analyse historical Netflix stoc
 
 The project involves data exploration, preprocessing, feature selection, model training, evaluation, and saving the final machine learning model.
 
-## 🎯 Objective
+## Objective
 
 The main objective of this project is to predict the **Netflix closing stock price** using historical stock market features.
 
 This is a **supervised machine learning regression problem**.
 
-## 📊 Dataset
+## Dataset
 
 The project uses historical Netflix stock data with features including:
 
@@ -27,7 +27,7 @@ The dataset was obtained from Kaggle.
 
 > **Note:** The dataset is not included in this repository. Please obtain the dataset from the original source before running the project.
 
-## 🔍 Project Workflow
+## Project Workflow
 
 The project follows these main steps:
 
@@ -47,7 +47,7 @@ The project follows these main steps:
 14. Evaluating and selecting a model
 15. Saving the trained model for future predictions
 
-## 🤖 Machine Learning Models
+## Machine Learning Models
 
 The following regression algorithms were investigated:
 
@@ -59,7 +59,7 @@ The following regression algorithms were investigated:
 
 The models were evaluated using regression performance metrics, including R² and prediction accuracy calculations.
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 * Python
 * Google Colab
@@ -70,7 +70,7 @@ The models were evaluated using regression performance metrics, including R² an
 * Scikit-learn
 * Pickle
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```text
 netflix-stock-price-prediction/
@@ -81,7 +81,7 @@ netflix-stock-price-prediction/
 └── README.md
 ```
 
-## 🚀 How to Run the Project
+## How to Run the Project
 
 ### 1. Clone the repository
 
@@ -115,7 +115,7 @@ You can run it using:
 * Jupyter Notebook
 * Visual Studio Code
 
-## 💾 Saved Model
+## Saved Model
 
 The trained machine learning model is saved as:
 
@@ -130,7 +130,7 @@ The saved model can be loaded and used to make predictions based on input featur
 * Low price
 * Trading volume
 
-## 📈 Future Improvements
+## Future Improvements
 
 Possible future improvements include:
 
@@ -141,15 +141,15 @@ Possible future improvements include:
 * Creating data visualisations for model predictions
 * Developing a web application for stock price predictions
 
-## 👥 Project Information
+## Project Information
 
 This project was developed as part of a group machine learning project.
 
-## ⚠️ Disclaimer
+## Disclaimer
 
 This project is for educational and research purposes only. Stock market predictions involve uncertainty and should not be considered financial advice.
 
-## 👨‍💻 Author
+## Author
 
 **Limpanhaboth Yin**
 
@@ -157,4 +157,4 @@ Software Engineering Student | Aspiring Software Developer
 
 ---
 
-⭐ If you found this project interesting, feel free to explore the repository!
+If you found this project interesting, feel free to explore the repository!
